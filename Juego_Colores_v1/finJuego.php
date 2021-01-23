@@ -48,7 +48,7 @@ echo "<div id = 'final'>$htmlResultado</div>";
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Document</title>
+        <title>Fin del juego</title>
         <link rel="stylesheet" href="css/estilo.css" type="text/css">
     </head>
     <body>
